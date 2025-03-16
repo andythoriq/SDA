@@ -1,0 +1,29 @@
+Nama: AAA | Nilai: 60
+Nama: BBB | Nilai: 60
+Nama: CCC | Nilai: 80
+Nama: CCC | Nilai: 70
+Nama: DDD | Nilai: 90
+Nama: DDD | Nilai: 80
+
+
+Nama: DDD | Nilai: 90
+Nama: CCC | Nilai: 80
+Nama: DDD | Nilai: 80
+Nama: CCC | Nilai: 70
+Nama: AAA | Nilai: 60
+Nama: BBB | Nilai: 60
+
+
+jumlah mahasiswa : 6
+
+Nama: CCC | Nilai: 80
+Nama: DDD | Nilai: 80
+Nama: DDD | Nilai: 90
+
+
+Nama: CCC | Nilai: 80
+Nama: DDD | Nilai: 80
+
+
+Linked list telah dikosongkan.
+Linked list telah dikosongkan.
