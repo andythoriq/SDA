@@ -12,10 +12,17 @@ int main(void)
     printf("INput angka yang akan diconvert menjadi binary: ");
     scanf("%d", &n);
 
-    while (n != 0)
+    if (n == 0)
     {
-        push(&s, n % 2);
-        n  = n / 2;
+        push(&s, 0); // langsung push kalau angka decimalnya adlh 0
+    }
+    else
+    {
+        while (n != 0)
+        {
+            push(&s, n % 2);
+            n = n / 2;
+        }
     }
 
     // tampilkan
