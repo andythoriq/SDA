@@ -31,7 +31,7 @@ int main()
         switch (choice)
         {
         case 0:
-            return 0;
+            break;
         case 1:
             printf("Masukkan jumlah data id yang akan mengantri: ");
             scanf("%d", &jml);
