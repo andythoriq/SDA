@@ -1,6 +1,6 @@
 # 📘 Struktur Data dan Algoritma (SDA)
 
-Selamat datang di repository **Struktur Data dan Algoritma (SDA)**! 🎉  
+Selamat datang di repository **Struktur Data dan Algoritma (SDA)**!   
 Repository ini berisi berbagai materi dan implementasi dari konsep **struktur data** dan **algoritma** menggunakan bahasa pemrograman **C**.  
 Setiap pembelajaran dikelompokkan **(disimpan dalam branch)** berdasarkan **Studi Kasusnya**.
 
