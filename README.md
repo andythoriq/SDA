@@ -21,7 +21,7 @@ Setiap topik pembelajaran dikelompokkan berdasarkan studi kasus. Klik tautan di 
 > **Catatan:**  
 > Silakan cek masing-masing branch untuk melihat kode dan materi pembelajaran di setiap case.
 
-## 🔗 **Daftar Kasus yang Dikerjakan**
+## 🔗 **Daftar Referensi untuk Kasus yang Dikerjakan**
 Berikut adalah daftar kasus yang telah dikerjakan beserta referensi yang digunakan dalam proses pembelajaran:
 
 ### **📌 Kasus 2: Stack**
