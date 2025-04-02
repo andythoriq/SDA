@@ -48,6 +48,6 @@ Berikut adalah daftar kasus yang telah dikerjakan beserta referensi yang digunak
 
 ---
 
-## **🔗 Referensi Tambahan**
+### **🔗 Referensi Tambahan**
 Selain referensi per kasus di atas, berikut adalah sumber lain yang digunakan dalam pembelajaran ini:
 - 📖 [Programiz - Operasi pada Linked List](https://www.programiz.com/dsa/linked-list-operations)
