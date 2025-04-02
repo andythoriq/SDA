@@ -22,7 +22,7 @@ Setiap topik pembelajaran dikelompokkan berdasarkan studi kasus. Klik tautan di 
 > Silakan cek masing-masing branch untuk melihat kode dan materi pembelajaran di setiap case.
 
 ## 🔗 **Daftar Referensi untuk Kasus yang Dikerjakan**
-Berikut adalah daftar kasus yang telah dikerjakan beserta referensi yang digunakan dalam proses pembelajaran:
+Berikut adalah daftar kasus yang telah dikerjakan beserta referensi yang digunakan dalam proses pengerjaan:
 
 ### **📌 Kasus 2: Stack**
 > - 📺 [Video Penjelasan Stack (YouTube)](https://www.youtube.com/watch?v=eEAQX2FzfKo)
@@ -49,5 +49,5 @@ Berikut adalah daftar kasus yang telah dikerjakan beserta referensi yang digunak
 ---
 
 ### **🔗 Referensi Tambahan**
-Selain referensi per kasus di atas, berikut adalah sumber lain yang digunakan dalam pembelajaran ini:
+Selain referensi per kasus di atas, berikut adalah sumber lain yang digunakan dalam tugas ini:
 - 📖 [Programiz - Operasi pada Linked List](https://www.programiz.com/dsa/linked-list-operations)
