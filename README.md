@@ -18,8 +18,7 @@ Setiap topik pembelajaran dikelompokkan berdasarkan studi kasus. Klik tautan di 
 | 05 | Array dan SLL | [Lihat di sini](https://github.com/andythoriq/SDA/tree/studi-kasus-05) |
 | 06 | DLL | [Lihat di sini](https://github.com/andythoriq/SDA/tree/studi-kasus-06) |
 
-#### **Kasus Perpustakaan**
-https://github.com/andythoriq/SDA-Perpustakaan-di-Perguruan-Tinggi
+**Kasus Perpustakaan** : https://github.com/andythoriq/SDA-Perpustakaan-di-Perguruan-Tinggi
 
 > **Catatan:**  
 > Silakan cek masing-masing branch untuk melihat kode dan materi pembelajaran di setiap case.
