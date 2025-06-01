@@ -10,7 +10,7 @@ void NbTree_Create(Isi_Tree X, int Jml_Node) {
         return;
     }
 
-    // inisialisasi dengna mengosongkan semua node atau element
+    // inisialisasi dengan mengosongkan semua node atau element
     for (int i = 0; i <= jml_maks; i++) {
         X[i].info = ' ';
         X[i].ps_fs = nil;
@@ -33,11 +33,11 @@ void NbTree_Create(Isi_Tree X, int Jml_Node) {
             int parent;
             scanf("%d", &parent);
             X[i].ps_pr = parent;
-            if (X[parent].ps_fs == 0) {
+            if (X[parent].ps_fs == nil) {
                 X[parent].ps_fs = i;
             } else {
                 int sibling = X[parent].ps_fs;
-                while (X[sibling].ps_nb != 0) {
+                while (X[sibling].ps_nb != nil) {
                     sibling = X[sibling].ps_nb;
                 }
                 X[sibling].ps_nb = i;
