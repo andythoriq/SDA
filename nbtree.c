@@ -5,6 +5,11 @@ bool NbTree_IsEmpty(Isi_Tree P) {
 }
 
 void NbTree_Create(Isi_Tree X, int Jml_Node) {
+    if (Jml_Node < 1 || Jml_Node > jml_maks) {
+        printf("Jumlah node harus antara 1 dan %d.\n", jml_maks);
+        return;
+    }
+
     // inisialisasi dengna mengosongkan semua node atau element
     for (int i = 0; i <= jml_maks; i++) {
         X[i].info = ' ';
