@@ -23,6 +23,8 @@ Setiap topik pembelajaran dikelompokkan berdasarkan studi kasus. Klik tautan di 
 
 > **Catatan:**  
 > Silakan cek masing-masing branch untuk melihat kode dan materi pembelajaran di setiap case.
+> case 7 dan 8 ada di dalam satu branch
+> case 9 dan 10 ada di dalam satu branch
 
 ## 🔗 **Daftar Referensi untuk Kasus yang Dikerjakan**
 Berikut adalah daftar kasus yang telah dikerjakan beserta referensi yang digunakan dalam proses pengerjaan:
