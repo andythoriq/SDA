@@ -17,7 +17,8 @@ Setiap topik pembelajaran dikelompokkan berdasarkan studi kasus. Klik tautan di 
 | 04 | Kombinasi Stack & Queue | [Lihat di sini](https://github.com/andythoriq/SDA/tree/studi-kasus-04) |
 | 05 | Array dan SLL | [Lihat di sini](https://github.com/andythoriq/SDA/tree/studi-kasus-05) |
 | 06 | DLL | [Lihat di sini](https://github.com/andythoriq/SDA/tree/studi-kasus-06) |
-| 07 | NB Tree array | [Lihat di sini](https://github.com/andythoriq/SDA/tree/studi-kasus-07) |
+| 07 & 08 | NB Tree array | [Lihat di sini](https://github.com/andythoriq/SDA/tree/studi-kasus-07) |
+| 09 & 10 | BT Kode Morse | [Lihat di sini](https://github.com/andythoriq/SDA/tree/studi-kasus-09) |
 
 **Kasus Perpustakaan** : https://github.com/andythoriq/SDA-Perpustakaan-di-Perguruan-Tinggi
 
